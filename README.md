@@ -22,5 +22,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 2) Generate a healthy password
 Steps to run:
 1) Open a terminal
-2) cd to bin/ directory
-3) javac ../src/App.java -d bin ; java App
+2) `cd` to bin/ directory
+3) `javac ../src/App.java -d bin ; java App`
