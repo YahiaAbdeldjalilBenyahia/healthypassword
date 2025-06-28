@@ -16,4 +16,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# healthypassword
+##
+
+1) Evaluate a password health
+2) Generate a healthy password
+Steps to run:
+1) Open a terminal
+2) cd to bin/ directory
+3) javac ../src/App.java -d bin ; java App
